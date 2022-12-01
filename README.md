@@ -1,4 +1,4 @@
-# Olá eu sou o Daniel Scharp 🖐️
+# Olá, eu sou o Daniel Scharp 🖐️
 
 ## Tecnologias que eu uso no meu dia
 
