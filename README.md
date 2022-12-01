@@ -14,7 +14,7 @@
 
 </div><br/>
 
-![DanielScharp GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielScharp&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScharp&layout=compact)](https://github.com/DanielScharp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScharp&layout=compact)](https://github.com/DanielScharp)
 
 ## Contato
 [![Blog](https://img.shields.io/website?label=danielscharp.github.io&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://danielscharp.github.io/index.html)
